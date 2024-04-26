@@ -1,0 +1,19 @@
+.watch {
+  text-align: center;
+}
+
+.display {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.buttons button:hover {
+  background-color: #ddd;
+}
